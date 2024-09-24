@@ -1,19 +1,19 @@
 [
   {
-    "name": "impossible",
-    "function": "impossible",
+    "name": "test_positive",
+    "function": "test_positive",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "impossible",
-    "function": "impossible",
+    "name": "test_young",
+    "function": "test_young",
     "timeout": 10,
     "points": 1
   },
   {
-    "name": "impossible",
-    "function": "impossible",
+    "name": "test_income",
+    "function": "test_income",
     "timeout": 10,
     "points": 1
   }
